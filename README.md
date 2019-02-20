@@ -33,7 +33,7 @@ M. van Beirendonck, L.-C. Trudeau, P. Giard, A. Balatsoukas-Stimming, "A Lyra2 F
 Telecommunications Circuits Laboratory, Ecole polytechnique fédérale de Lausanne (EPFL), Lausanne, Switzerland
 Michiel.Van.Beirendonck@gmail.com
 ### Louis-Charles Trudeau
-Electrical Engineering Department, Ecole de technologie supérieure (ETS), Montréal, Canada 
+Formerly with the Electrical Engineering Department, Ecole de technologie supérieure (ETS), Montréal, Canada 
 ### Pascal Giard
 Electrical Engineering Department, Ecole de technologie supérieure (ETS), Montréal, Canada 
 ### Alexios Balatsoukas-Stimming
