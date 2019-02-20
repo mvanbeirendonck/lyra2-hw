@@ -13,9 +13,9 @@ This repository provides source files for simulation and implementation of a Lyr
 ```bash
 ├── hdl				# HDL source files
 │ ├── ...
-| └── lyra2
-|   ├── hdl   
-|   └── sim                     # Core-level simulation files
+│ └── lyra2
+│   ├── hdl   
+│   └── sim                     # Core-level simulation files
 ├── sim				# Xilinx IP configuration files
 ├── sim				# Top-level simulation files 
 ├── sw				# Software reference files and test vector generation
@@ -28,8 +28,8 @@ This repository provides source files for simulation and implementation of a Lyr
 Telecommunications Circuits Laboratory, Ecole polytechnique fédérale de Lausanne (EPFL), Lausanne, Switzerland
 Michiel.Van.Beirendonck@gmail.com
 ### Louis-Charles Trudeau
-Electrical Engineering Department, Ecole de technologie supérieure (ETS), Montréal, Canada ´
+Electrical Engineering Department, Ecole de technologie supérieure (ETS), Montréal, Canada 
 ### Pascal Giard
-Electrical Engineering Department, Ecole de technologie supérieure (ETS), Montréal, Canada ´
+Electrical Engineering Department, Ecole de technologie supérieure (ETS), Montréal, Canada 
 ### Alexios Balatsoukas-Stimming
 Telecommunications Circuits Laboratory, Ecole polytechnique fédérale de Lausanne (EPFL), Lausanne, Switzerland
