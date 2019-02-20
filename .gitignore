@@ -1,0 +1,31 @@
+*.bak
+
+### Ignore Modelsim generated logs and waveforms
+modelsim.ini
+*.log
+*.wlf
+work/
+transcript
+*.saif
+*.vstf
+
+### Vim swap files
+*.swp
+*.swo
+
+### Vivado project files and binaries
+*vivado_pid*
+*.cache*
+*webtalk*
+*bitstreams/
+fsm_encoding.os
+run_*/
+*.jou
+*.log
+.Xil/
+*hs_err*
+
+### Vivado simulation files
+*.wdb
+*.pb
+xsim.dir/
