@@ -21,7 +21,7 @@ M. van Beirendonck, L.-C. Trudeau, P. Giard, A. Balatsoukas-Stimming, "A Lyra2 F
 │ └── lyra2
 │   ├── hdl   
 │   └── sim                     # Core-level simulation files
-├── sim				# Xilinx IP configuration files
+├── ip				# Xilinx IP configuration files
 ├── sim				# Top-level simulation files 
 ├── sw				# Software reference files and test vector generation
 └── syn				# Synthesis files
