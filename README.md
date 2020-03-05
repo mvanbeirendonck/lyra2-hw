@@ -10,8 +10,8 @@ See LICENSE.txt
 
 This repository provides source files for simulation and implementation of a Lyra2 FPGA core for Lyra2REv2-based cryptocurrencies. If you make use of any of these source files, we kindly ask you to cite our conference paper:
 
-M. van Beirendonck, L.-C. Trudeau, P. Giard, A. Balatsoukas-Stimming, "A Lyra2 FPGA Core for Lyra2REv2-Based Cryptocurrencies," IEEE International Symposium on Circuits and Systems (ISCAS), May 2019, to appear. https://arxiv.org/pdf/1807.05764v2.pdf 
-
+M. van Beirendonck, L. Trudeau, P. Giard and A. Balatsoukas-Stimming, "A Lyra2 FPGA Core for Lyra2REv2-Based Cryptocurrencies," 2019 IEEE International Symposium on Circuits and Systems (ISCAS), Sapporo, Japan, 2019, pp. 1-5.
+https://doi.org/10.1109/ISCAS.2019.8702498
 
 # Folder Structure
 
@@ -30,8 +30,8 @@ M. van Beirendonck, L.-C. Trudeau, P. Giard, A. Balatsoukas-Stimming, "A Lyra2 F
 # Contributors
 
 ### Michiel van Beirendonck
-Telecommunications Circuits Laboratory, Ecole polytechnique fédérale de Lausanne (EPFL), Lausanne, Switzerland
-Michiel.Van.Beirendonck@gmail.com
+imec-COSIC, KU Leuven, Leuven, Belgium
+michiel.vanbeirendonck@esat.kuleuven.be
 ### Louis-Charles Trudeau
 Formerly with the Electrical Engineering Department, Ecole de technologie supérieure (ETS), Montréal, Canada 
 ### Pascal Giard
