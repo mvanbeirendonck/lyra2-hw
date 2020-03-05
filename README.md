@@ -31,6 +31,7 @@ https://doi.org/10.1109/ISCAS.2019.8702498
 
 ### Michiel van Beirendonck
 imec-COSIC, KU Leuven, Leuven, Belgium
+
 michiel.vanbeirendonck@esat.kuleuven.be
 ### Louis-Charles Trudeau
 Formerly with the Electrical Engineering Department, Ecole de technologie supérieure (ETS), Montréal, Canada 
